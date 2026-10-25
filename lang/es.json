@@ -1,0 +1,7 @@
+{
+    "NeorClearCache": {
+        "ClearCache": "Borrar caché",
+        "Description": "Borra las cachés de Matomo para plantillas, recursos, configuración y seguimiento. Los datos en caché se regenerarán automáticamente; las estadísticas recopiladas se conservan.",
+        "Success": "La caché de Matomo se ha borrado."
+    }
+}

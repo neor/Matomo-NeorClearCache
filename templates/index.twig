@@ -1,0 +1,19 @@
+{% extends 'admin.twig' %}
+
+{% set title %}{{ 'NeorClearCache_ClearCache'|translate }}{% endset %}
+
+{% block content %}
+    <div class="card">
+        <div class="card-content">
+            <h2>{{ 'NeorClearCache_ClearCache'|translate }}</h2>
+            <p>{{ 'NeorClearCache_Description'|translate }}</p>
+            {% if neorClearCacheCleared %}
+                <p class="alert alert-success" role="status">{{ 'NeorClearCache_Success'|translate }}</p>
+            {% endif %}
+            <form method="post" action="index.php?module=NeorClearCache&amp;action=index">
+                <input type="hidden" name="nonce" value="{{ neorClearCacheNonce }}">
+                <button type="submit" class="btn">{{ 'NeorClearCache_ClearCache'|translate }}</button>
+            </form>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,7 @@
+{
+    "NeorClearCache": {
+        "ClearCache": "Svuota cache",
+        "Description": "Svuota le cache di Matomo per template, risorse, configurazione e tracciamento. I dati memorizzati nella cache verranno rigenerati automaticamente; le statistiche raccolte vengono conservate.",
+        "Success": "La cache di Matomo è stata svuotata."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "NeorClearCache": {
+        "ClearCache": "Limpar cache",
+        "Description": "Limpar os caches do Matomo para modelos, recursos, configuração e rastreamento. Os dados em cache serão regenerados automaticamente; as estatísticas coletadas são mantidas.",
+        "Success": "O cache do Matomo foi limpo."
+    }
+}

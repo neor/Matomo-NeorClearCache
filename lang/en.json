@@ -1,0 +1,7 @@
+{
+    "NeorClearCache": {
+        "ClearCache": "Clear cache",
+        "Description": "Clear Matomo caches for templates, assets, configuration and tracking. Cached data will be regenerated automatically; collected statistics are retained.",
+        "Success": "Matomo cache has been cleared."
+    }
+}

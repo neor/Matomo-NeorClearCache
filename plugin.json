@@ -1,0 +1,25 @@
+{
+    "name": "NeorClearCache",
+    "description": "Clear Matomo caches from administration with superuser access and CSRF protection.",
+    "version": "1.0.0",
+    "license": "GPL v3+",
+    "keywords": [
+        "cache",
+        "clear cache",
+        "admin",
+        "system",
+        "performance"
+    ],
+    "require": {
+        "piwik": ">=5.0.0,<6.0.0",
+        "php": ">=8.1.0"
+    },
+    "authors": [
+        {
+            "name": "Nikolay Lisienko | Neor Digital",
+            "email": "tere@neor.ee",
+            "homepage": "https://neor.digital/"
+        }
+    ],
+    "homepage": "https://github.com/neor/Matomo-NeorClearCache"
+}

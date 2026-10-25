@@ -1,0 +1,7 @@
+{
+    "NeorClearCache": {
+        "ClearCache": "Vider le cache",
+        "Description": "Vider les caches de Matomo pour les modèles, les ressources, la configuration et le suivi. Les données mises en cache seront régénérées automatiquement ; les statistiques collectées sont conservées.",
+        "Success": "Le cache de Matomo a été vidé."
+    }
+}
