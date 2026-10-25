@@ -53,7 +53,7 @@ git clone https://github.com/neor/Matomo-NeorClearCache.git NeorClearCache
 
 ### Manual Download
 
-1. Download the release archive.
+1. Download the release archive from [GitHub Releases](https://github.com/neor/Matomo-NeorClearCache/releases).
 2. Extract the directory as `NeorClearCache` into the `plugins/` folder of your Matomo installation.
 3. Ensure directory permissions allow your web server to read the files.
 
