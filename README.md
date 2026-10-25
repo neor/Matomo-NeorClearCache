@@ -7,7 +7,7 @@
 
 A Matomo 5 plugin that adds a **Clear cache** button under **Administration → System → Clear cache**, allowing administrators to purge the Matomo cache directly from the web interface without requiring terminal or SSH access.
 
-![NeorClearCache in Matomo System Menu](screenshots/menu.png)
+![NeorClearCache in Matomo System Menu](screenshots/clear-cache.png)
 
 This executes the exact same underlying cache purge routine as the console command:
 
